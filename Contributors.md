@@ -1,3 +1,3 @@
 # Contribuidores
 
-- [Isabella Breder](https://gitlab.com/isabellabreder)
+- [TRILHA](https://github.com/AriasHe)
